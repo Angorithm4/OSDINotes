@@ -2,7 +2,6 @@
 
 **My Notes for book "Operating System Design and Implementation**"
 ###### By Andrew S. Tanenbaum and Albert S. Woodhull
-![titleOSDI](Chapters/Sources/TitleOSDI.png)
 
 ## Chapters
 ### Chapter1
