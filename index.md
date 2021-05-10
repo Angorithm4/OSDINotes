@@ -8,7 +8,10 @@
 * [1. Introduce to Operating Systerm](Chapters/Chapter1/1OS.md)
 * [2. The History of Oprating Systerm(Early)](Chapters/Chapter1/2HSE.md)
 * [3. MINIX](Chapters/Chapter1/3MINIX.md)
-* [4. The Fourth Generation (1980–Present) Personal Computers](Chapters/Chapter1/4MCOS.md)
+* 4.The Fourth Generation (1980–Present) Personal Computers
+  * [4.1. The 8 Bit Ages](Chapters/Chapter1/4MCOS1.md)
+  * [4.2. Apple and Microsoft](Chapters/Chapter1/4MCOS2.md)
+  * [4.3. Modern System](Chapters/Chapter1/4MCOS3.md)
 * [5. System Calls (1)](Chapters/Chapter1/5Syscall-1.md)
 * [6. System Calls (2)](Chapters/Chapter1/6Syscall-2.md)
 * [7. System Calls (3)](Chapters/Chapter1/7Syscall-3.md)
