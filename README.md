@@ -2,7 +2,7 @@
 
 ##### By Andrew S. Tanenbaum and Albert S. Woodhull
 **Now Published with github pages:**
-[https://angoldwange.github.io/OSDINotes/](https://angoldwange.github.io/OSDINotes/)
+[https://angorithm4.github.io/OSDINotes/](https://angoldwange.github.io/OSDINotes/)
 
 
 
